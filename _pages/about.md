@@ -10,6 +10,8 @@ redirect_from:
 
 <style type="text/css"> body{ font-size: 12pt; text-align:justify; } </style> 
 
+A passionate Computer Science Ph.D researcher at ([Tokyo Metropolitan University (TMU)](https://www.tmu.ac.jp/)), Tokyo. Possessing a strong foundation gained through 3‑year research in Natural Language Processing, Machine Learning, and Deep Learning. My expertise extends to diverse projects encompassing Speech Recognition, Speaker Identification, Action Items Detection from Urdu text, Roman Urdu Sentiment Analysis, Social Bots Detection, and Botnet attacks in IoT and IoMT. I have published works in reputable journals and actively engage in collaborative research initiatives.
+
 I'm Muhammad Owais, a passionate Computer Science Lecturer at [Superior University Lahore](https://www.superior.edu.pk/). Possessing a strong foundation in Natural Language Processing, Machine Learning, and Deep Learning gained through 2‑year research at [Center for Language Engineering (CLE)](https://www.cle.org.pk/). My expertise extends to diverse projects encompassing Speech Recognition, Speaker Identification, Action Items Detection from Urdu text, Roman Urdu Sentiment Analysis, SocialBots Detection, and Botnet attacks in IoT and IoMT. I have published works in reputable journals and actively engage in collaborative research initiatives. I earned a Master's degree from the Department of Computer Science,[University of Engineering and Technology (UET), Lahore](https://www.uet.edu.pk/). Previously, I attended [University of Sargodha](https://su.edu.pk/) for my BS in Computer Science.
 
 
